@@ -1,1 +1,6 @@
-[]
+[
+  { "title": "The Shawshank Redemption", "director": "Frank Darabont", "year": 1994, "genre": "Drama" },
+  { "title": "Spirited Away", "director": "Hayao Miyazaki", "year": 2001, "genre": "Animation" },
+  { "title": "The Grand Budapest Hotel", "director": "Wes Anderson", "year": 2014, "genre": "Comedy" },
+  { "title": "Arrival", "director": "Denis Villeneuve", "year": 2016, "genre": "Science fiction" }
+]
